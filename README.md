@@ -1,5 +1,4 @@
-# About Me
-# Personal
+# Tejaswini's Portfolio
 1. **I am Tejaswini Subramanian.** 
 2. *I am a 1st Year B-Tech Student at PES University.*
    ~~I like to sing~~
